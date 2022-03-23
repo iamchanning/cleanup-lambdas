@@ -1,0 +1,12 @@
+{
+  "name": "cleanup-lambdas",
+  "version": "1.0.0",
+  "description": "Removes old versions of lambdas",
+  "author": "Channing",
+  "license": "UNLICENSED",
+  "private": false,
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "lodash": "^4.17.5"
+  }
+}
